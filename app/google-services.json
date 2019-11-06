@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18248491255",
+    "firebase_url": "https://chat-954c7.firebaseio.com",
+    "project_id": "chat-954c7",
+    "storage_bucket": "chat-954c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18248491255:android:4f212370f8fcd9056b33f2",
+        "android_client_info": {
+          "package_name": "co.com.k4soft.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18248491255-2h6sojevvucujjkc34ifnudk9o6bls0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3btoANbs-e64imw9PLdFhRkqQ61XANZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18248491255-2h6sojevvucujjkc34ifnudk9o6bls0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
